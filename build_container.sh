@@ -2,4 +2,4 @@
 
 set -e
 
-docker build --tag asciich/mavproxy .
+docker build --tag mavproxy .
