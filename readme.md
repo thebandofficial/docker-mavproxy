@@ -83,3 +83,10 @@ ls /dev/ttyACM*
 
 ## More information
 * [MAVProxy installation manual](https://ardupilot.org/mavproxy/)
+
+
+## Disable logs
+```
+MAV> Unloaded module log
+MAV> log cancel
+```
